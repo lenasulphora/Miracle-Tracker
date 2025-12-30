@@ -7,6 +7,3 @@ A fast and lightweight tool for tracking and saving progress during encounters.
 Supports update system and Arabic language.
 
 ⚙️ يتطلب .NET 8 أو أحدث — Requires .NET 8 or higher
-
-⬇️ 🔥 رابط التحميل المباشر
-👉 تحميل أحدث إصدار من Miracle Tracker
