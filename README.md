@@ -1,1 +1,1 @@
-# Miracle-Tracker
+Miracle Tracker – أداة تتبع خفيفة وسريعة.
